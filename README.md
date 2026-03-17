@@ -1,4 +1,4 @@
-![Desta Profile]("img/github-header-banner.png")
+![Desta Profile](img/github-header-banner.png)
 ###
 
 <div align="center">
