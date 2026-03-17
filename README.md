@@ -1,4 +1,4 @@
-![Desta Keren](img/github-header-banner)
+![Desta Keren](img/github-header-banner.png)
 ## 💫 About Me:
 I am a student who enjoys learning new things.
 
